@@ -127,6 +127,7 @@ input::placeholder{
     text-align: center;
     border-radius: 50px;
     color: white;
+    transition: background-color 0.3s;
 }
 
 a:hover{
@@ -135,4 +136,5 @@ a:hover{
 
 .up:hover{
     background-color: darkcyan;
+    cursor: pointer;
 }
